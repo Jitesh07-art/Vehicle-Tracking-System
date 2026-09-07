@@ -327,26 +327,7 @@ Frontend functionality can be tested through the Vue.js application.
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots of your application here.
-
-Example:
-
-```markdown
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
-
-### Vehicle Tracking
-![Vehicle Tracking](docs/screenshots/tracking.png)
-
-### Vehicle Management
-![Vehicle Management](docs/screenshots/vehicles.png)
-```
-
----
 
 ## 🎓 Academic Project
 
